@@ -1,4 +1,4 @@
-baseURL = 'https://krystofklen.com/'
+baseURL = 'https://krystofklen.github.io/'
 locale = 'en-us'
 title = 'Kryštof Klen - Blog'
 theme = "nojs"
