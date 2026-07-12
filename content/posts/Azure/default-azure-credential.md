@@ -1,6 +1,6 @@
 +++
 date = '2026-07-12T13:59:41+02:00'
-draft = true
+draft = false
 title = 'Default Azure Credential'
 categories = ['azure']
 tags = ['credential', 'Azure', 'authentication', 'identity']
