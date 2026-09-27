@@ -1,6 +1,6 @@
 +++
 date = '2026-09-27T21:31:30+02:00'
-draft = true
+draft = false
 title = 'API Permissions, Application permissions and Expose an API in Entra ID'
 categories = ['Entra ID']
 tags = ['api permissions', 'application permissions', 'expose api']
