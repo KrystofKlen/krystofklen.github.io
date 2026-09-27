@@ -1,6 +1,3 @@
 [submodule "themes/nojs"]
 	path = themes/nojs
-	url = https://git.andy.sb/nojs.git
-[submodule "themes/hugo-coder"]
-	path = themes/hugo-coder
-	url = https://github.com/luizdepra/hugo-coder.git
+	url = https://gitlab.com/andy.sb/nojs.git
