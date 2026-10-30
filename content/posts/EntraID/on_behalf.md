@@ -2,7 +2,7 @@
 date = '2026-10-02T22:02:52+02:00'
 draft = false
 title = 'On On-Behalf-Of (OBO) flow for agents'
-categories = ['Entra ID','AI']
+categories = ['Entra ID',"AI Agents"]
 tags = ['agent impersonating user','ai agent', 'agent identity']
 +++
 ## What is On-Behalf-Of flow for agents
